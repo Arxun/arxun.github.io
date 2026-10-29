@@ -1,0 +1,1 @@
+import{j as a}from"./r3f-DI1lngOx.js";import"./three-Dc6XZrl1.js";function n({onRotate:o}){return a.jsx("button",{type:"button",className:"mobile-rotate-fab","aria-label":"顺时针旋转屏幕",onPointerDown:t=>{t.preventDefault(),t.stopPropagation(),o()},children:"↻ 旋转"})}export{n as default};

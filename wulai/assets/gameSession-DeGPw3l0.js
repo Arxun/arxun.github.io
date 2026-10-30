@@ -1,0 +1,1 @@
+import{as as a,v as t}from"./runtime-CRLYRbDM.js";import{r as i}from"./driftStore-CkECJR6D.js";import"./three-Dc6XZrl1.js";import"./index-CrM8peG2.js";import"./r3f-DI1lngOx.js";import"./drei-CwpHlXUH.js";let e=null;function u(r){return e||(e=r()),e}function o(){e=null,i(),a(),t.inCar=!1,t.near=!1}o();export{u as getPlayerState,o as resetGameSession};
